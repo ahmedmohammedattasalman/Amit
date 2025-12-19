@@ -11,3 +11,7 @@ To get started with this project, clone the repository and
 navigate to the `python-for-ml` folde
 ## First code in python for ML 
  this this the first code in python for ml 
+ ## first three assignments are done 
+ 1 - prepare env ✓
+ 2- basic python ✓
+ 3 - continue on basic python  ✓
